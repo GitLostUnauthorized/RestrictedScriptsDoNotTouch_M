@@ -5,7 +5,7 @@ Subtitle Sphere is a powerful, completely free-to-use application that provides 
 
 ## ⚠️ Important Notice  
 - **Do not download this software from GitHub or any unofficial source.**  
-- To ensure you are downloading the authentic and latest version of Subtitle Sphere, please visit our [official website](https://www.subtitlesphere.com)).  
+- To ensure you are downloading the authentic and latest version of Subtitle Sphere, please visit our [official website](https://www.subtitlesphere.com).  
 - Please make sure to read the **LICENSE** file included with the software.  
 
 ## Features  

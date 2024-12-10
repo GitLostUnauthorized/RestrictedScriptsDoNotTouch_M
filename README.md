@@ -26,7 +26,7 @@ For a full guide on how to use Subtitle Sphere, check the **Instructions** secti
 This software is distributed under the terms outlined in the accompanying **LICENSE** file. Please ensure you read and understand the license before using the software.  
 
 ## Contributing  
-We are not accepting direct contributions through this repository. For bug reports or suggestions, please visit the [contact us page](https://www.subtitlesphere.com)).  
+We are not accepting direct contributions through this repository. For bug reports or suggestions, please visit the [contact us page](https://www.subtitlesphere.com).  
 
 ---
 
